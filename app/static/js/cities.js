@@ -1,1 +1,0 @@
-var us_cities = [
